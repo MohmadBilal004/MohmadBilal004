@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmadbilal004&label=Profile%20views&color=0e75b6&style=flat" alt="mohmadbilal004" /> </p>
 
-- 🌱 I’m currently learning **React & Spring Framework**
+- 🌱 I’m currently learning **.NET & Spring Framework**
 
 - 👨‍💻 My portfolio Website is [bilalakram.netlify.app/](bilalakram.netlify.app/)
 
