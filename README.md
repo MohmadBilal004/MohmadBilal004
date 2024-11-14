@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmadbilal004&label=Profile%20views&color=0e75b6&style=flat" alt="mohmadbilal004" /> </p>
 
-- 🌱 I’m currently learning **.NET & Angular Framework**
+- 🌱 I’m currently learning **.NET & React**
+-  Also interested in Game Development**Unity**
 
 - 👨‍💻 My portfolio Website is [bilalakram.netlify.app/](bilalakram.netlify.app/)
 
